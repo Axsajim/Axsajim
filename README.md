@@ -1,6 +1,8 @@
 # The Flowermaker, a Creator
 
-I made my brand startup +4 years ago, starting with a Japanese-Spanish teaching website and Sprite making for indie games. Since then, I've worked with different studios all around the world. Making all kind of request, my biggest ambition is to overtake in the Virtual-Reality industry.
-My mother language is Spanish, but I can fluently speak English and Japanese too.
+I'm a 19 years old developer and creative. I started learning practical code being 12 years older.
+And when I was 14 I made a Japanese-Spanish teaching website for an Academy in Kyoko.
+Since then, I've been working with different labels all around the world, as freelancer.
+As entrepreneur, I've teached game development and art, built a couple of Organizations and deployed a few apps.
 
-# [Check my Portfolio](https://axsajim.github.io/Axsajim/)
+## [Check my Portfolio](https://axsajim.github.io/Axsajim/)
