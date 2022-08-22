@@ -1,14 +1,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=41476708)
 
-<style>
-  h1 { color: orange }
-</style>
-
-
 <img align='left' src='https://raw.githubusercontent.com/Axsajim/Axsajim/master/TheHouseOfTheSun.png' width='100%'>
 
-<h1 align='center'>The Flowermaker</h1>
-
+# The Flowermaker
 
 CEO on [Zekken Studios](https://github.com/Zekken-Studios), [Virtual Cathedral](https://github.com/VirtualCathedral), [Monito Games](https://github.com/Monito-Games), [HitoriSekai](https://github.com/HitoriSekai) and [SekaiYokai](https://github.com/SekaiYokai).  
 
